@@ -57,7 +57,7 @@ if (ua.includes("Locket")) {
                 {
                     title: "Nhớ follow kênh tiktok @nhatquang2thg9 ✨",
                     body: "Một follow của bạn, một niềm vui của mình 💛",
-                    imageURL: "https://i.ibb.co/bj2Y3d0y/L-n-Gold-R-i-1.png"
+                    imageURL: "https://i.ibb.co/7dWFj9hp/C9982-C96-E92-C-403-D-9704-898-ED45-EB1-FE.png"
                 }
             ],
             primary_button_title: "Xong",
@@ -265,7 +265,7 @@ if (ua.includes("Locket")) {
         widget_sync_token_reload_mode: "clearTokenNever",
         widget_frame_event: JSON.stringify({
             uid: "midautumn_2026",
-            url: "https://i.ibb.co/1Yt1Dzzy/Shin-chan-1.png",
+            url: "https://i.ibb.co/0p1fP3pk/IMG-0777.png",
             // url: "https://i.ibb.co/RTm5P1n9/kitty-1.png",
             // url: "https://i.ibb.co/JjLZ3cvD/khung-ins.png",
             use_local_time_zone: true,
@@ -400,9 +400,9 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Decorative by Duy Vinh",
+                section: "🎨 Decorative by Nhat Quang",
                 items: [
-                    { overlay_id: "caption:KimNgan", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, icon: { data: "tortoise.fill", type: "sf_symbol", color: "#183153" }, max_lines: 1, text: "duyvinh09", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:KimNgan", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, icon: { data: "tortoise.fill", type: "sf_symbol", color: "#183153" }, max_lines: 1, text: "KimNgan", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:cu", source: "remote", caption: { background: { colors: ["#FFD6A5", "#FFF1A8", "#FFC4D6"] }, max_lines: 1, text: "Cu 🐎", text_color: "#633B24", type: "static_content" } },
                     { overlay_id: "caption:tuat", source: "remote", caption: { background: { colors: ["#2C1A0E", "#5D4037", "#D7A86E"] }, icon: { data: "🐕", type: "emoji" }, max_lines: 1, text: "Tuất", text_color: "#FFFFFFE6", type: "static_content" } },
                     { overlay_id: "caption:snake_vibes", source: "remote", caption: { background: { colors: ["#2E7D32", "#66BB6A"] }, icon: { data: "🐍", type: "emoji" }, max_lines: 1, text: "Snake Vibes", localized_text: { en: "Snake Vibes", vn: "Chất rắn" }, text_color: "#FFFFFFE6", type: "static_content" } },
